@@ -1,0 +1,532 @@
+subreddit,title,selftext,author,score,num_comments,created_utc,url,text,author_gender,tokens,text_length,dominant_topic,topic_label,hf_sent,vader
+Feminism,"For those in the USA, Happy National Women’s Health Month!!","I just found out May is this special
+month! Remember that you are important, your health is important, and your reproductive health is your right! 💓
+
+National Women’s Health Month officially begins on Mother’s Day, which will start National Women’s Health week! ",therosyobserver,7,0,2025-05-03 17:00:41,https://www.reddit.com/r/Feminism/comments/1kdxnai/for_those_in_the_usa_happy_national_womens_health/,"For those in the USA, Happy National Women’s Health Month!! I just found out May is this special
+month! Remember that you are important, your health is important, and your reproductive health is your right! 💓
+
+National Women’s Health Month officially begins on Mother’s Day, which will start National Women’s Health week! ",female,"['usa' 'happy' 'national' 'health' 'month' 'find' 'special' 'month'
+ 'remember' 'important' 'health' 'important' 'reproductive' 'health'
+ 'right' 'national' 'health' 'month' 'officially' 'begin' 'mother' 'start'
+ 'national' 'health' 'week']",52,5,Mental Health & Support Communities,0.9873620271682739,0.8908
+TwoXChromosomes,I'm a female engineer at NASA,It just feels great to say that out loud. Waking up to the news of two women winning the nobel prize made me cry happy tears. STEM fields are male dominated and seeing more and more women push through those barriers brings me pure joy.,Shrimp_eyes_are_cool,23463,749,2020-10-07 17:04:00,https://www.reddit.com/r/TwoXChromosomes/comments/j6upx7/im_a_female_engineer_at_nasa/,I'm a female engineer at NASA It just feels great to say that out loud. Waking up to the news of two women winning the nobel prize made me cry happy tears. STEM fields are male dominated and seeing more and more women push through those barriers brings me pure joy.,female,"['female' 'engineer' 'nasa' 'feel' 'great' 'loud' 'wake' 'news' 'win'
+ 'nobel' 'prize' 'cry' 'happy' 'tear' 'stem' 'field' 'male' 'dominate'
+ 'see' 'push' 'barrier' 'bring' 'pure' 'joy']",51,1,"Masculinity, Feminism & Social Norms",0.9851048588752747,0.936
+AskMen,"Guys with over a decade of marriage, what's your ""Yep, she's STILL the one"" moment?","Hi! I just wanna thank you guys for sharing your moments with your SO:) It made my day and others as well.
+Hope you guys do well and wish you happiness for the years to come :)
+
+Edit:
+Also thank you for my first silver and gold awards!
+",Teruzaki,11961,1207,2019-03-06 04:57:26,https://www.reddit.com/r/AskMen/comments/axuycf/guys_with_over_a_decade_of_marriage_whats_your/,"Guys with over a decade of marriage, what's your ""Yep, she's STILL the one"" moment? Hi! I just wanna thank you guys for sharing your moments with your SO:) It made my day and others as well.
+Hope you guys do well and wish you happiness for the years to come :)
+
+Edit:
+Also thank you for my first silver and gold awards!
+",male,"['decade' 'marriage' 'yep' 'moment' 'hi' 'wanna' 'thank' 'share' 'moment'
+ 'hope' 'wish' 'happiness' 'year' 'come' 'thank' 'silver' 'gold' 'award']",63,0,Life Experiences & Emotional Reflections,0.983851969242096,0.9771
+AskMen,"Married men, what does your wife do to keep you happy?","My boyfriend just proposed to me two weeks ago. He has been soooo incredible over the last few years, all I want to do is make him happy for the rest of his life. 
+
+Any tips for marital bliss?",lulubear8,10178,1592,2020-02-20 12:17:06,https://www.reddit.com/r/AskMen/comments/f6s8tu/married_men_what_does_your_wife_do_to_keep_you/,"Married men, what does your wife do to keep you happy? My boyfriend just proposed to me two weeks ago. He has been soooo incredible over the last few years, all I want to do is make him happy for the rest of his life. 
+
+Any tips for marital bliss?",male,"['married' 'wife' 'happy' 'boyfriend' 'propose' 'week' 'ago' 'soooo'
+ 'incredible' 'year' 'happy' 'rest' 'life' 'tip' 'marital' 'bliss']",50,0,Life Experiences & Emotional Reflections,0.9831109046936035,0.9146
+TwoXChromosomes,I GOT THE JOB!!!!,"I’m 21, I graduated college in May, got a temporary position as a trainee programmer and now I’m being “promoted” to the salaried staff position! I’m going to be making $55,000 a year, I’m gonna have PTO, and I’m working at my University so I’ll be able to do my Masters for free. 
+
+This is a dream come true, I can hardly believe it!
+
+Edit: Thank you all so much, there’s too many kind people congratulating for me to say thank you to everyone so seriously thank you ladies so much for the support ❤️❤️❤️",,25253,599,2020-11-16 20:07:49,https://www.reddit.com/r/TwoXChromosomes/comments/jve104/i_got_the_job/,"I GOT THE JOB!!!! I’m 21, I graduated college in May, got a temporary position as a trainee programmer and now I’m being “promoted” to the salaried staff position! I’m going to be making $55,000 a year, I’m gonna have PTO, and I’m working at my University so I’ll be able to do my Masters for free. 
+
+This is a dream come true, I can hardly believe it!
+
+Edit: Thank you all so much, there’s too many kind people congratulating for me to say thank you to everyone so seriously thank you ladies so much for the support ❤️❤️❤️",female,"['job' 'graduate' 'college' 'temporary' 'position' 'trainee' 'programmer'
+ 'promote' 'salaried' 'staff' 'position' 'go' 'year' 'go' 'pto' 'work'
+ 'university' 'able' 'masters' 'free' 'dream' 'come' 'true' 'hardly'
+ 'believe' 'thank' 'kind' 'congratulate' 'thank' 'seriously' 'thank'
+ 'lady' 'support']",99,0,Life Experiences & Emotional Reflections,0.9786263704299927,0.9619
+Feminism,I've found happiness and success in my search for a hysterectomy finally!,I'm so excited to bask in my womanhood once again not overburdened with pain that cost me work days and days where I feel so proud to be a woman! My family has a HUGE HISTORY of ovarian cancer and I am happy to finally be here,gayasswoman,2145,100,2023-06-09 01:37:35,https://www.reddit.com/gallery/144rngz,I've found happiness and success in my search for a hysterectomy finally! I'm so excited to bask in my womanhood once again not overburdened with pain that cost me work days and days where I feel so proud to be a woman! My family has a HUGE HISTORY of ovarian cancer and I am happy to finally be here,female,"['find' 'happiness' 'success' 'search' 'hysterectomy' 'finally' 'excited'
+ 'bask' 'womanhood' 'overburden' 'pain' 'cost' 'work' 'feel' 'proud'
+ 'family' 'huge' 'history' 'ovarian' 'cancer' 'happy' 'finally']",59,0,Life Experiences & Emotional Reflections,0.9784305095672607,0.9639
+Feminism,Good Feminist Fiction Books to Read,"Hello everyone! I'm trying to read more over this summer, I'm currently reading ""The Beauty Myth"" by Naomi Wolf (amazing book). I love reading non-fiction feminist books, however I really want to find some fictional books as well. I'm really into older books. Please drop some recommendations and authors I should look into! Thanks :) ",goldess3,79,39,2025-05-08 14:37:11,https://www.reddit.com/r/Feminism/comments/1khrp3r/good_feminist_fiction_books_to_read/,"Good Feminist Fiction Books to Read Hello everyone! I'm trying to read more over this summer, I'm currently reading ""The Beauty Myth"" by Naomi Wolf (amazing book). I love reading non-fiction feminist books, however I really want to find some fictional books as well. I'm really into older books. Please drop some recommendations and authors I should look into! Thanks :) ",female,"['good' 'feminist' 'fiction' 'books' 'read' 'hello' 'try' 'read' 'summer'
+ 'currently' 'read' 'beauty' 'myth' 'naomi' 'wolf' 'amazing' 'book' 'love'
+ 'read' 'non' 'fiction' 'feminist' 'book' 'find' 'fictional' 'book' 'old'
+ 'book' 'drop' 'recommendation' 'author' 'look' 'thank']",61,3,Gender Identity & Personal Experience,0.9758903384208679,0.9651
+AskMen,"Men of the reddit world, what are your do's and don't's for guys in their mid 20's?","Thank you for the silver kind reddit stranger! Love you! Thank you for all the comments my redditors! I wasn’t expecting all of this and its overwhelming and I love it.  I want to find the better me and all 110% of these advice are truly appreciated.  Once again, I praise y’all! 
+
+Oh no! Not the Gold.  Thank you so much reddit stranger! I grant you many blessings.",ArtificialUsernames,8623,2595,2019-05-29 11:50:28,https://www.reddit.com/r/AskMen/comments/budocu/men_of_the_reddit_world_what_are_your_dos_and/,"Men of the reddit world, what are your do's and don't's for guys in their mid 20's? Thank you for the silver kind reddit stranger! Love you! Thank you for all the comments my redditors! I wasn’t expecting all of this and its overwhelming and I love it.  I want to find the better me and all 110% of these advice are truly appreciated.  Once again, I praise y’all! 
+
+Oh no! Not the Gold.  Thank you so much reddit stranger! I grant you many blessings.",male,"['world' 'mid' 'thank' 'silver' 'kind' 'stranger' 'love' 'thank'
+ 'redditor' 'expect' 'overwhelming' 'love' 'find' 'well' 'advice' 'truly'
+ 'appreciated' 'praise' 'oh' 'gold' 'thank' 'stranger' 'grant' 'blessing']",85,2,Parenting & Family Life,0.973092257976532,0.9893
+TwoXChromosomes,Almost two weeks after my clitoral reconstruction and I couldn't be happier!,"I'm doing a follow-up today with the doctors, and so far it's been great! Following the removal of my clitoris and labia minora/majora, the reconstruction was extremely successful. I had very little sweeping and no bruising. I've also had sensations I hadn't felt since I was 14 in my clitoris. I can't believe it. I've gone half my life without it. I cry when I move and feel my underwear brushing up against me. I feel it and it's amazing. 
+
+I feel whole again. I'm in so much awe that a doctor could give me back what I lost, and that life can be as it should. I've beaten the control that a misogynistic practice had put me through. There's no more physical barriers in my way. And I can finally heal the years of emotional and mental pains. I'm ready to live a life free of this shame and horror looming over me. Thank you so much for the support and courage and cheering me on. You helped me so much in moving forward and I love you!
+
+Edit: two things. 1.) I'm not going to share before and after pics, nor am I am going to share my nudes I used to post.  And 2.) My anus is not the real clit. Just saying.",buttstuffisokiguess,19696,503,2020-03-10 14:04:00,https://www.reddit.com/r/TwoXChromosomes/comments/fgeam6/almost_two_weeks_after_my_clitoral_reconstruction/,"Almost two weeks after my clitoral reconstruction and I couldn't be happier! I'm doing a follow-up today with the doctors, and so far it's been great! Following the removal of my clitoris and labia minora/majora, the reconstruction was extremely successful. I had very little sweeping and no bruising. I've also had sensations I hadn't felt since I was 14 in my clitoris. I can't believe it. I've gone half my life without it. I cry when I move and feel my underwear brushing up against me. I feel it and it's amazing. 
+
+I feel whole again. I'm in so much awe that a doctor could give me back what I lost, and that life can be as it should. I've beaten the control that a misogynistic practice had put me through. There's no more physical barriers in my way. And I can finally heal the years of emotional and mental pains. I'm ready to live a life free of this shame and horror looming over me. Thank you so much for the support and courage and cheering me on. You helped me so much in moving forward and I love you!
+
+Edit: two things. 1.) I'm not going to share before and after pics, nor am I am going to share my nudes I used to post.  And 2.) My anus is not the real clit. Just saying.",female,"['week' 'clitoral' 'reconstruction' 'happy' 'follow' 'today' 'doctor'
+ 'far' 'great' 'follow' 'removal' 'clitoris' 'labia' 'minora' 'majora'
+ 'reconstruction' 'extremely' 'successful' 'little' 'sweeping' 'bruising'
+ 'sensation' 'feel' 'clitoris' 'believe' 'go' 'half' 'life' 'cry' 'feel'
+ 'underwear' 'brush' 'feel' 'amazing' 'feel' 'awe' 'doctor' 'lose' 'life'
+ 'beat' 'control' 'misogynistic' 'practice' 'physical' 'barrier' 'finally'
+ 'heal' 'year' 'emotional' 'mental' 'pain' 'ready' 'live' 'life' 'free'
+ 'shame' 'horror' 'loom' 'thank' 'support' 'courage' 'cheer' 'help' 'move'
+ 'forward' 'love' 'thing' 'go' 'share' 'pic' 'go' 'share' 'nude' 'anus'
+ 'real' 'clit']",228,0,Life Experiences & Emotional Reflections,0.972770094871521,0.9442
+MensLib,Happy International Men's Day from /r/MensLib,"This year's theme is [Better Relationships Between Men and Women](https://internationalmensday.com/). On international men's day, we celebrate worldwide the positive value men bring to the world, their families and communities. We highlight positive role models and raise awareness of men’s well-being.
+
+With that in mind, let's take a moment to think about the inspirational men in our own lives, as well as any relationships you find particularly inspiring.",delta_baryon,1597,146,2021-11-19 09:29:51,https://www.reddit.com/r/MensLib/comments/qwy6hh/happy_international_mens_day_from_rmenslib/,"Happy International Men's Day from /r/MensLib This year's theme is [Better Relationships Between Men and Women](https://internationalmensday.com/). On international men's day, we celebrate worldwide the positive value men bring to the world, their families and communities. We highlight positive role models and raise awareness of men’s well-being.
+
+With that in mind, let's take a moment to think about the inspirational men in our own lives, as well as any relationships you find particularly inspiring.",male,"['happy' 'international' 'menslib' 'year' 'theme' 'well' 'relationship'
+ 'international' 'celebrate' 'worldwide' 'positive' 'value' 'bring'
+ 'world' 'family' 'community' 'highlight' 'positive' 'role' 'model'
+ 'raise' 'awareness' 'mind' 'let' 'moment' 'think' 'inspirational' 'life'
+ 'relationship' 'find' 'particularly' 'inspiring']",73,1,"Masculinity, Feminism & Social Norms",0.9690258502960205,0.9796
+FemaleDatingStrategy,"Really fulfilled and happy in my life, open to dating again!","I’m physically, mentally and emotionally whole and healthy. 
+I’ve established an amazing career and I’m completely financially independent.
+I live my life true to my values.
+I also have no need for a man in my life, my life is full and complete as it is.
+
+I know exactly what I want and my standards are high. I’m intelligent and fully prepared to vet. 
+
+My strategy is to avoid OLD completely as I’ve heard too many horror stories and have decided that for me; it’s not the route I’m interested in. 
+
+I’m going to attend some fun boating shows at a popular lake resort in my area, I’ve joined a target practice group.
+
+I’ve read the entire handbook several times and I also listen to the podcast. 
+
+I have no intention of centering my life around being open to dating. It’s just that I’ve put it off and now; I’m open to it. 
+
+I’ll keep you all posted. 🥳",,689,39,2022-04-23 19:02:20,https://www.reddit.com/r/FemaleDatingStrategy/comments/uaccs6/really_fulfilled_and_happy_in_my_life_open_to/,"Really fulfilled and happy in my life, open to dating again! I’m physically, mentally and emotionally whole and healthy. 
+I’ve established an amazing career and I’m completely financially independent.
+I live my life true to my values.
+I also have no need for a man in my life, my life is full and complete as it is.
+
+I know exactly what I want and my standards are high. I’m intelligent and fully prepared to vet. 
+
+My strategy is to avoid OLD completely as I’ve heard too many horror stories and have decided that for me; it’s not the route I’m interested in. 
+
+I’m going to attend some fun boating shows at a popular lake resort in my area, I’ve joined a target practice group.
+
+I’ve read the entire handbook several times and I also listen to the podcast. 
+
+I have no intention of centering my life around being open to dating. It’s just that I’ve put it off and now; I’m open to it. 
+
+I’ll keep you all posted. 🥳",female,"['fulfil' 'happy' 'life' 'open' 'date' 'physically' 'mentally'
+ 'emotionally' 'healthy' 'establish' 'amazing' 'career' 'completely'
+ 'financially' 'independent' 'live' 'life' 'true' 'value' 'life' 'life'
+ 'complete' 'exactly' 'standard' 'high' 'intelligent' 'fully' 'prepared'
+ 'vet' 'strategy' 'avoid' 'old' 'completely' 'hear' 'horror' 'story'
+ 'decide' 'route' 'interested' 'go' 'attend' 'fun' 'boat' 'show' 'popular'
+ 'lake' 'resort' 'area' 'join' 'target' 'practice' 'group' 'read' 'entire'
+ 'handbook' 'time' 'listen' 'podcast' 'intention' 'center' 'life' 'open'
+ 'date' 'open']",170,2,Parenting & Family Life,0.9654209017753601,0.973
+FemaleDatingStrategy,FDS Is Launching an Email Newsletter Soon!,"Hi everyone! 
+
+I'm very excited to announce that FDS will soon be launching a newsletter!
+
+What's in it:
+- Original strategy content ranging from dating, finance, tech, general life improvement
+- Latest need-to-know news curated with a female-focused lense
+- Pop culture commentary
+- Stories of interest from women from various backgrounds
+- Recommendations for the best Strategy focused content, authors, influencers, etc 
+
+The newsletter sign up form is at the footer of the homepage and/or in the pop up box:
+
+https://www.thefemaledatingstrategy.com/",SnarkSticks,327,13,2022-04-08 00:18:29,https://www.reddit.com/r/FemaleDatingStrategy/comments/tyqse1/fds_is_launching_an_email_newsletter_soon/,"FDS Is Launching an Email Newsletter Soon! Hi everyone! 
+
+I'm very excited to announce that FDS will soon be launching a newsletter!
+
+What's in it:
+- Original strategy content ranging from dating, finance, tech, general life improvement
+- Latest need-to-know news curated with a female-focused lense
+- Pop culture commentary
+- Stories of interest from women from various backgrounds
+- Recommendations for the best Strategy focused content, authors, influencers, etc 
+
+The newsletter sign up form is at the footer of the homepage and/or in the pop up box:
+
+https://www.thefemaledatingstrategy.com/",female,"['fds' 'launch' 'email' 'newsletter' 'soon' 'hi' 'excited' 'announce'
+ 'fds' 'soon' 'launch' 'newsletter' 'original' 'strategy' 'content'
+ 'range' 'date' 'finance' 'tech' 'general' 'life' 'improvement' 'late'
+ 'news' 'curate' 'female' 'focus' 'lense' 'pop' 'culture' 'commentary'
+ 'story' 'interest' 'background' 'recommendations' 'good' 'strategy'
+ 'focused' 'content' 'author' 'influencer' 'newsletter' 'sign' 'form'
+ 'footer' 'homepage' 'pop' 'box']",89,2,Parenting & Family Life,0.9644749760627747,0.9563
+MensLib,I'm a woman and I just found this sub,"Hi. I'm a woman and I just found this sub. I'm so glad it exists! 
+
+I'm a feminist who is concerned about the gendered issues that men and boys face. The hurt you suffer is real and under-recognized. 
+
+I've long felt distraught that the only community addressing these issues, MRAs, are so anti-feminist and even in many cases misogynist. 
+
+I'm so happy that there is this community addressing men's issues in a much more positive way, and as an ally to women in our struggles. Our oppressions are connected, and so is our liberation.
+
+",trashiest_panda_,1094,216,2018-07-30 04:52:44,https://www.reddit.com/r/MensLib/comments/9316m3/im_a_woman_and_i_just_found_this_sub/,"I'm a woman and I just found this sub Hi. I'm a woman and I just found this sub. I'm so glad it exists! 
+
+I'm a feminist who is concerned about the gendered issues that men and boys face. The hurt you suffer is real and under-recognized. 
+
+I've long felt distraught that the only community addressing these issues, MRAs, are so anti-feminist and even in many cases misogynist. 
+
+I'm so happy that there is this community addressing men's issues in a much more positive way, and as an ally to women in our struggles. Our oppressions are connected, and so is our liberation.
+
+",male,"['find' 'sub' 'hi' 'find' 'sub' 'glad' 'exist' 'feminist' 'concerned'
+ 'gendere' 'issue' 'boy' 'face' 'hurt' 'suffer' 'real' 'recognize' 'long'
+ 'feel' 'distraught' 'community' 'address' 'issue' 'mras' 'anti'
+ 'feminist' 'case' 'misogynist' 'happy' 'community' 'address' 'issue'
+ 'positive' 'ally' 'struggle' 'oppression' 'connect' 'liberation']",103,5,Mental Health & Support Communities,0.9620446562767029,0.2005
+Feminism,"There‘s Still Tomorrow,A Good Movie Beyond Boundaries!","There's Still Tomorrow!I recently watched the Italian film 《C'è ancora domani》(There's Still Tomorrow)，
+a powerful story about women's struggles, On March 8, International Women's Day, this film was released in China,and it has received a warm welcome,
+earning a high rating of 9.4(out of 10) on Douban.
+and I couldn't shake the feeling-
+wow, this all hits way too close to home! For a moment, I genuinely thought I was watching a Chinese story.
+In so many ways, China and Italy are eerily alike!",Dazzling_Volume_6140,5,0,2025-05-04 07:02:20,https://v.redd.it/m6yj3yorrpye1,"There‘s Still Tomorrow,A Good Movie Beyond Boundaries! There's Still Tomorrow!I recently watched the Italian film 《C'è ancora domani》(There's Still Tomorrow)，
+a powerful story about women's struggles, On March 8, International Women's Day, this film was released in China,and it has received a warm welcome,
+earning a high rating of 9.4(out of 10) on Douban.
+and I couldn't shake the feeling-
+wow, this all hits way too close to home! For a moment, I genuinely thought I was watching a Chinese story.
+In so many ways, China and Italy are eerily alike!",female,"['tomorrow' 'good' 'movie' 'boundaries' 'recently' 'watch' 'italian'
+ 'film' 'ancora' 'tomorrow' 'powerful' 'story' 'struggle' 'march'
+ 'international' 'film' 'release' 'china' 'receive' 'warm' 'welcome'
+ 'earn' 'high' 'rating' 'douban' 'shake' 'wow' 'hit' 'close' 'home'
+ 'moment' 'genuinely' 'think' 'watch' 'chinese' 'story' 'china' 'italy'
+ 'eerily' 'alike']",91,0,Life Experiences & Emotional Reflections,0.9595857858657837,0.9219
+MensLib,"On a lighter note: how freaking awesome are ""girly"" drinks?","I stopped drinking alcohol a few years ago, but my local bar makes wicked mocktails. Their Mai Tai is delicious!
+
+What's your favorite ""girly"" drink, and have you had to deal with people's comments when ordering/drinking them?
+
+My wife and I always have a laugh when we get our order and the waiter assumes the pint of stout is mine and she has the virgin sex on the beach.",supergolum,2576,586,2021-04-20 14:45:53,https://www.reddit.com/r/MensLib/comments/murxsx/on_a_lighter_note_how_freaking_awesome_are_girly/,"On a lighter note: how freaking awesome are ""girly"" drinks? I stopped drinking alcohol a few years ago, but my local bar makes wicked mocktails. Their Mai Tai is delicious!
+
+What's your favorite ""girly"" drink, and have you had to deal with people's comments when ordering/drinking them?
+
+My wife and I always have a laugh when we get our order and the waiter assumes the pint of stout is mine and she has the virgin sex on the beach.",male,"['light' 'note' 'freak' 'awesome' 'girly' 'drink' 'stop' 'drink' 'alcohol'
+ 'year' 'ago' 'local' 'bar' 'wicked' 'mocktail' 'mai' 'tai' 'delicious'
+ 'favorite' 'girly' 'drink' 'deal' 'ordering' 'drink' 'wife' 'laugh'
+ 'order' 'waiter' 'assume' 'pint' 'stout' 'virgin' 'sex' 'beach']",79,0,Life Experiences & Emotional Reflections,0.9539191722869873,0.9224
+MensRights,"Help make ""How to Sue and Win!"" possible!","GALDEF, a registered not-for-profit charity, is excited to announce that we've begun fundraising for two vital projects with an ambitious goal of raising $12,000 by June 30, 2025. We're creating two video training modules, one for attorneys and one for potential plaintiffs, to help each be more effective in winning lawsuits against male genital cutting.
+
+Help us achieve our goal: [https://www.galdef.org/2025/04/09/help-make-how-to-sue-and-win-possible/](https://www.galdef.org/2025/04/09/help-make-how-to-sue-and-win-possible/)",GALDEF-Prez,29,0,2025-04-20 22:59:10,https://i.redd.it/ii8ul3fkl2we1.jpeg,"Help make ""How to Sue and Win!"" possible! GALDEF, a registered not-for-profit charity, is excited to announce that we've begun fundraising for two vital projects with an ambitious goal of raising $12,000 by June 30, 2025. We're creating two video training modules, one for attorneys and one for potential plaintiffs, to help each be more effective in winning lawsuits against male genital cutting.
+
+Help us achieve our goal: [https://www.galdef.org/2025/04/09/help-make-how-to-sue-and-win-possible/](https://www.galdef.org/2025/04/09/help-make-how-to-sue-and-win-possible/)",male,"['help' 'sue' 'win' 'possible' 'galdef' 'register' 'profit' 'charity'
+ 'excited' 'announce' 'begin' 'fundraise' 'vital' 'project' 'ambitious'
+ 'goal' 'raise' 'june' 'create' 'video' 'training' 'module' 'attorney'
+ 'potential' 'plaintiff' 'help' 'effective' 'win' 'lawsuit' 'male'
+ 'genital' 'cutting' 'help' 'achieve' 'goal']",69,4,Sexual Violence & Abuse,0.953610360622406,0.976
+MensLib,"It was great to see men on TV, for international men's day being open for the first time!","Yesterday was international men's day, which focuses on men's mental health. There is a show here in the UK called loose women (like The View in the USA) for the day it was called loose men, it was strange hearing older men talk about their emotions for which are often hidden due to stigma. It felt strange watching it and I felt better for it. I hope they do it more often or decide to mix up the show and make it more diverse.
+https://www.bbc.co.uk/news/amp/entertainment-arts-55001925",Didotpainter,1768,47,2020-11-20 17:43:07,https://www.reddit.com/r/MensLib/comments/jxtnp3/it_was_great_to_see_men_on_tv_for_international/,"It was great to see men on TV, for international men's day being open for the first time! Yesterday was international men's day, which focuses on men's mental health. There is a show here in the UK called loose women (like The View in the USA) for the day it was called loose men, it was strange hearing older men talk about their emotions for which are often hidden due to stigma. It felt strange watching it and I felt better for it. I hope they do it more often or decide to mix up the show and make it more diverse.
+https://www.bbc.co.uk/news/amp/entertainment-arts-55001925",male,"['great' 'tv' 'international' 'open' 'time' 'yesterday' 'international'
+ 'focus' 'mental' 'health' 'uk' 'call' 'loose' 'view' 'usa' 'call' 'loose'
+ 'strange' 'hear' 'old' 'talk' 'emotion' 'hide' 'stigma' 'feel' 'strange'
+ 'watch' 'feel' 'well' 'hope' 'decide' 'mix' 'diverse']",103,0,Life Experiences & Emotional Reflections,0.9535335302352905,0.6114
+MensLib,Bruce Springsteen: Walk like a man,"I stumbled across this album the other day, decades after it was played on high rotation on the family tape deck. I lost my dad when I was 22, so I love this song in particular. After seeing the Charles Bukowski poem, I thought this community would appreciate it too. 
+
+Plus here’s an essay that discusses the song far more eloquently than I could: 
+
+https://estreetshuffle.com/index.php/2018/07/21/roll-of-the-dice-walk-like-a-man/ 
+
+",Roy4Pris,19,5,2025-03-12 02:12:32,https://open.spotify.com/track/36WnSVxMlPA5pB9NcQi0py?si=B_Hwh9XyRhuJFOLVTuAEGA,"Bruce Springsteen: Walk like a man I stumbled across this album the other day, decades after it was played on high rotation on the family tape deck. I lost my dad when I was 22, so I love this song in particular. After seeing the Charles Bukowski poem, I thought this community would appreciate it too. 
+
+Plus here’s an essay that discusses the song far more eloquently than I could: 
+
+https://estreetshuffle.com/index.php/2018/07/21/roll-of-the-dice-walk-like-a-man/ 
+
+",male,"['bruce' 'springsteen' 'walk' 'stumble' 'album' 'decade' 'play' 'high'
+ 'rotation' 'family' 'tape' 'deck' 'lose' 'dad' 'love' 'song' 'particular'
+ 'see' 'charles' 'bukowski' 'poem' 'think' 'community' 'appreciate' 'plus'
+ 'essay' 'discuss' 'song' 'far' 'eloquently']",71,0,Life Experiences & Emotional Reflections,0.9507755637168884,0.8926
+MensRights,Boys Can Survive,"Thought I should share this story I just found online. It s an inspiring survival story that shows what young men can achieve when their backs are against the wall. 
+
+If anyone tells you that young men are 'toxic' and should be ashamed of their masculinity: just show them this.
+
+",Altruistic-Wish-5097,57,3,2025-05-11 20:18:47,https://www.facebook.com/share/p/16hBh9ogAo/,"Boys Can Survive Thought I should share this story I just found online. It s an inspiring survival story that shows what young men can achieve when their backs are against the wall. 
+
+If anyone tells you that young men are 'toxic' and should be ashamed of their masculinity: just show them this.
+
+",male,"['boy' 'survive' 'thought' 'share' 'story' 'find' 'online' 'inspire'
+ 'survival' 'story' 'show' 'young' 'achieve' 'wall' 'tell' 'young' 'toxic'
+ 'ashamed' 'masculinity']",53,1,"Masculinity, Feminism & Social Norms",0.9492170810699463,0.1779
+TwoXChromosomes,My dog protected me today.,"I live in a city with my 9 month old golden retriever puppy [(puppy tax)](https://imgur.com/a/alWT6y8). He's the sweetest boy and loves every dog and person he sees on the street and in the park.  
+
+I was walking back from the dog park with my happy puppy and an older man on a bike yelled across the street that he was cute, I laughed and said thank you. Par for the course with my dog - I'm sure you can see why. The man then took this as an invitation to bicycle over to me, and stop right next to me.  
+
+He began to ask me questions and the encounter went from pleasant to irritating. ""How old are you, are you in school? What's your puppy's name?""  
+
+I told him my boyfriend was in med school and waiting for me (he is actually out of the country, so not true), and to have a nice day, and he proceeded to go ""mannnnnnn...everyone has a boyfriend..."" and bicycle next to me down the path back to my apartment, as I was clearly walking away from him and he had been going the other way.  
+
+My pup then turns to him and starts snarling, and barking, an absolute first for him. His hackles are raised, and he starts jumping towards the man on his bike a bit. The creep gets all nervous, saying stuff like ""woah, woah woah, why are you acting like this puppy?"" and finally stops cycling and lets me walk back alone. Of course, he still yelled out ""WANNA FUCK?"" across the parking lot.  
+
+I had no problem telling this guy to fuck off, but I am just happy to know that my puppy has my back just in case :)",giraffecakes,23805,619,2020-03-07 16:08:34,https://www.reddit.com/r/TwoXChromosomes/comments/fex567/my_dog_protected_me_today/,"My dog protected me today. I live in a city with my 9 month old golden retriever puppy [(puppy tax)](https://imgur.com/a/alWT6y8). He's the sweetest boy and loves every dog and person he sees on the street and in the park.  
+
+I was walking back from the dog park with my happy puppy and an older man on a bike yelled across the street that he was cute, I laughed and said thank you. Par for the course with my dog - I'm sure you can see why. The man then took this as an invitation to bicycle over to me, and stop right next to me.  
+
+He began to ask me questions and the encounter went from pleasant to irritating. ""How old are you, are you in school? What's your puppy's name?""  
+
+I told him my boyfriend was in med school and waiting for me (he is actually out of the country, so not true), and to have a nice day, and he proceeded to go ""mannnnnnn...everyone has a boyfriend..."" and bicycle next to me down the path back to my apartment, as I was clearly walking away from him and he had been going the other way.  
+
+My pup then turns to him and starts snarling, and barking, an absolute first for him. His hackles are raised, and he starts jumping towards the man on his bike a bit. The creep gets all nervous, saying stuff like ""woah, woah woah, why are you acting like this puppy?"" and finally stops cycling and lets me walk back alone. Of course, he still yelled out ""WANNA FUCK?"" across the parking lot.  
+
+I had no problem telling this guy to fuck off, but I am just happy to know that my puppy has my back just in case :)",female,"['dog' 'protect' 'today' 'live' 'city' 'month' 'old' 'golden' 'retriever'
+ 'puppy' 'puppy' 'sweetest' 'boy' 'love' 'dog' 'person' 'see' 'street'
+ 'park' 'walk' 'dog' 'park' 'happy' 'puppy' 'old' 'bike' 'yell' 'street'
+ 'cute' 'laugh' 'thank' 'par' 'course' 'dog' 'sure' 'take' 'invitation'
+ 'bicycle' 'stop' 'right' 'begin' 'question' 'encounter' 'go' 'pleasant'
+ 'irritate' 'old' 'school' 'puppy' 'tell' 'boyfriend' 'med' 'school'
+ 'wait' 'actually' 'country' 'true' 'nice' 'proceed' 'mannnnnnn'
+ 'boyfriend' 'bicycle' 'path' 'apartment' 'clearly' 'walk' 'away' 'go'
+ 'pup' 'turn' 'start' 'snarling' 'barking' 'absolute' 'hackle' 'raise'
+ 'start' 'jump' 'bike' 'bit' 'creep' 'nervous' 'woah' 'woah' 'woah' 'act'
+ 'puppy' 'finally' 'stop' 'cycling' 'let' 'walk' 'course' 'yell' 'wanna'
+ 'fuck' 'parking' 'lot' 'problem' 'tell' 'fuck' 'happy' 'puppy' 'case']",296,0,Life Experiences & Emotional Reflections,0.9444513916969299,0.9629
+MensLib,The Mandalorian the kind of positive portrayal of masculinity we need more of [Spoilers],"Just finished watching the first season of Mandalorian last night, and wow what a show. As a Star Wars fan since childhood I absolutely loved it. I wanted to break down some things I loved most. Spoiler Alert for those who haven't seen the whole season and want to go in totally blind!
+
+But the thing that struck me most is what a positive portrayal of masculinity the main character specifically is. I think there were 5 things that stood out to me most clearly:
+
+**1.) Men can and should be seen as caregivers**
+
+This is the most obvious one. The whole season revolves around him finding Baby Yoda, building a connection with Baby Yoda, and ultimately culminating with Baby Yoda essentially being his child. How many TV shows are out there showing men who are incompetent at caregiving, or even actively run from it? Giving care is seen as a ""burden""
+
+Mando has an internal struggle sure, but he never treats Baby Yoda poorly, and in fact instead of running from caregiving, he turns to it. He embraces it.
+
+**2.) Conflicts can and should be solved without violence whenever possible.**
+
+There's often a call in video games to have more problems able to be solved without violence. Mandalorian provides a great blueprint for how this can be achieved. He's an incredibly powerful and skilled fighter, and he could very easily end almost any conflict with violence. There are multiple situations where he opts for negotiation, trade, and other means to end his conflicts. He also clearly doesn't kill when it's unnecessary. That he didn't actually kill any of those who betrayed him in the jailbreak episode is proof of that.
+
+Now - does he still have learning to do? Absolutely... the Jawa situation earlier is a good example of that. But he clearly uses his brain and his social understanding to know when to not use violence. This is huge when compared to so many fantasy/sci fi heroes just smashing everything and asking questions later.
+
+**3.)** **Men can and should treat all women as equals, and need not feel threatened by powerful/strong(not just physically) women. In fact, powerful women can help men achieve even more than they could alone.**
+
+Mando understands this so clearly. At no point does he show intimidation, fear, or resentment of Cara. He in fact seeks her help multiple times. He also seeks help (and clear mentorship) from the woman making his armor, he seeks caregiving help from the woman who fixed his ship on Tattoine.  
+
+Women can be tech experts, fighters, mentors, and more. This fact does not threaten Mandos masculinity in the slightest. In fact, it's just treated as obvious... just like seeking help from them is the smartest and best thing to do. Mando knows when to be deferential, and when to take the lead. There are some great business teamwork lessons here haha.
+
+This is a fantastic portrayal of how men should operate in a world with so many powerful, competent women who can actually enrich their lives.
+
+4.) **Strength (of all kinds) and Honor are can and should be part of positive masculinity, and much better than out-dated notions of ""chivalry""** 
+
+Too often we see heroes in our stories presenting out dated notions of chivalry. They have to save the damsel in distress, they are arrogant, violent, etc. The toxicity of chivalry can die in a fire.... and a show like The Mandalorian helps stoke the flames. 
+
+Mando consistently shows two things associated with ""knights"" or heroes... strength, and honor. But he eschews the negative elements of both.
+
+Strength isn't just physical strength for Mando... he has strength in his convictions, stength in his ability to bear the weight of his emotional scares, strength of mind for solving problems. Strength to do what must be done when outcomes are uncertain. This is positive masculinity. 
+
+Honor is the big one for me. Not stabbing someone in the back, not lying, cheating, hurting innocents, adhering to a positive value system. Mando does this in spades. And when he falls short, the story shows him learning more (see: his views on droids). 
+
+**5. ) Empathy and emotion are wonderful, and having both makes you a stronger man.** 
+
+This is where Mando had the most growth this season, and will continue to grow. Mandalorian's are a stoic people. Bounty Hunters are unempathetic. Mando absolutely hated droids.
+
+But by the end... we hear Mando's voice break. We see him express concern for his companions, and especially baby Yoda. We see him have empathy for a droid reprogrammed from a merciless killer to a caregiver. 
+
+Mando is a stronger character and man at the end of the season than he was at the beginning. This show displays his growth expertly, and of course leaves room for him to continue to grow. 
+
+&#x200B;
+
+Overall, I couldn't be happier with what I saw out of the Mandalorian, and I hope that creative folks continue to tell stories that feature men like this. 
+
+Masculinity is not inherently toxic, in fact, men can be strong, honorable, deferential, emotional, empathetic, and more.... all while being total badasses. 
+
+Thoughts?",scotsworth,2398,122,2020-01-10 21:45:55,https://www.reddit.com/r/MensLib/comments/emxqxh/the_mandalorian_the_kind_of_positive_portrayal_of/,"The Mandalorian the kind of positive portrayal of masculinity we need more of [Spoilers] Just finished watching the first season of Mandalorian last night, and wow what a show. As a Star Wars fan since childhood I absolutely loved it. I wanted to break down some things I loved most. Spoiler Alert for those who haven't seen the whole season and want to go in totally blind!
+
+But the thing that struck me most is what a positive portrayal of masculinity the main character specifically is. I think there were 5 things that stood out to me most clearly:
+
+**1.) Men can and should be seen as caregivers**
+
+This is the most obvious one. The whole season revolves around him finding Baby Yoda, building a connection with Baby Yoda, and ultimately culminating with Baby Yoda essentially being his child. How many TV shows are out there showing men who are incompetent at caregiving, or even actively run from it? Giving care is seen as a ""burden""
+
+Mando has an internal struggle sure, but he never treats Baby Yoda poorly, and in fact instead of running from caregiving, he turns to it. He embraces it.
+
+**2.) Conflicts can and should be solved without violence whenever possible.**
+
+There's often a call in video games to have more problems able to be solved without violence. Mandalorian provides a great blueprint for how this can be achieved. He's an incredibly powerful and skilled fighter, and he could very easily end almost any conflict with violence. There are multiple situations where he opts for negotiation, trade, and other means to end his conflicts. He also clearly doesn't kill when it's unnecessary. That he didn't actually kill any of those who betrayed him in the jailbreak episode is proof of that.
+
+Now - does he still have learning to do? Absolutely... the Jawa situation earlier is a good example of that. But he clearly uses his brain and his social understanding to know when to not use violence. This is huge when compared to so many fantasy/sci fi heroes just smashing everything and asking questions later.
+
+**3.)** **Men can and should treat all women as equals, and need not feel threatened by powerful/strong(not just physically) women. In fact, powerful women can help men achieve even more than they could alone.**
+
+Mando understands this so clearly. At no point does he show intimidation, fear, or resentment of Cara. He in fact seeks her help multiple times. He also seeks help (and clear mentorship) from the woman making his armor, he seeks caregiving help from the woman who fixed his ship on Tattoine.  
+
+Women can be tech experts, fighters, mentors, and more. This fact does not threaten Mandos masculinity in the slightest. In fact, it's just treated as obvious... just like seeking help from them is the smartest and best thing to do. Mando knows when to be deferential, and when to take the lead. There are some great business teamwork lessons here haha.
+
+This is a fantastic portrayal of how men should operate in a world with so many powerful, competent women who can actually enrich their lives.
+
+4.) **Strength (of all kinds) and Honor are can and should be part of positive masculinity, and much better than out-dated notions of ""chivalry""** 
+
+Too often we see heroes in our stories presenting out dated notions of chivalry. They have to save the damsel in distress, they are arrogant, violent, etc. The toxicity of chivalry can die in a fire.... and a show like The Mandalorian helps stoke the flames. 
+
+Mando consistently shows two things associated with ""knights"" or heroes... strength, and honor. But he eschews the negative elements of both.
+
+Strength isn't just physical strength for Mando... he has strength in his convictions, stength in his ability to bear the weight of his emotional scares, strength of mind for solving problems. Strength to do what must be done when outcomes are uncertain. This is positive masculinity. 
+
+Honor is the big one for me. Not stabbing someone in the back, not lying, cheating, hurting innocents, adhering to a positive value system. Mando does this in spades. And when he falls short, the story shows him learning more (see: his views on droids). 
+
+**5. ) Empathy and emotion are wonderful, and having both makes you a stronger man.** 
+
+This is where Mando had the most growth this season, and will continue to grow. Mandalorian's are a stoic people. Bounty Hunters are unempathetic. Mando absolutely hated droids.
+
+But by the end... we hear Mando's voice break. We see him express concern for his companions, and especially baby Yoda. We see him have empathy for a droid reprogrammed from a merciless killer to a caregiver. 
+
+Mando is a stronger character and man at the end of the season than he was at the beginning. This show displays his growth expertly, and of course leaves room for him to continue to grow. 
+
+&#x200B;
+
+Overall, I couldn't be happier with what I saw out of the Mandalorian, and I hope that creative folks continue to tell stories that feature men like this. 
+
+Masculinity is not inherently toxic, in fact, men can be strong, honorable, deferential, emotional, empathetic, and more.... all while being total badasses. 
+
+Thoughts?",male,"['mandalorian' 'kind' 'positive' 'portrayal' 'masculinity' 'spoiler'
+ 'finish' 'watch' 'season' 'mandalorian' 'night' 'wow' 'star' 'wars' 'fan'
+ 'childhood' 'absolutely' 'love' 'break' 'thing' 'love' 'spoiler' 'alert'
+ 'see' 'season' 'totally' 'blind' 'thing' 'strike' 'positive' 'portrayal'
+ 'masculinity' 'main' 'character' 'specifically' 'think' 'thing' 'stand'
+ 'clearly' 'see' 'caregiver' 'obvious' 'season' 'revolve' 'find' 'baby'
+ 'yoda' 'build' 'connection' 'baby' 'yoda' 'ultimately' 'culminate' 'baby'
+ 'yoda' 'essentially' 'child' 'tv' 'show' 'show' 'incompetent' 'caregive'
+ 'actively' 'run' 'give' 'care' 'see' 'burden' 'mando' 'internal'
+ 'struggle' 'sure' 'treat' 'baby' 'yoda' 'poorly' 'fact' 'instead' 'run'
+ 'caregive' 'turn' 'embrace' 'conflict' 'solve' 'violence' 'possible'
+ 'video' 'game' 'problem' 'able' 'solve' 'violence' 'mandalorian'
+ 'provide' 'great' 'blueprint' 'achieve' 'incredibly' 'powerful' 'skilled'
+ 'fighter' 'easily' 'end' 'conflict' 'violence' 'multiple' 'situation'
+ 'opt' 'negotiation' 'trade' 'mean' 'end' 'conflict' 'clearly' 'kill'
+ 'unnecessary' 'actually' 'kill' 'betray' 'jailbreak' 'episode' 'proof'
+ 'learn' 'absolutely' 'jawa' 'situation' 'early' 'good' 'example'
+ 'clearly' 'use' 'brain' 'social' 'understanding' 'use' 'violence' 'huge'
+ 'compare' 'fantasy' 'sci' 'fi' 'hero' 'smash' 'question' 'later' 'treat'
+ 'equal' 'feel' 'threaten' 'powerful' 'physically' 'fact' 'powerful'
+ 'help' 'achieve' 'mando' 'understand' 'clearly' 'point' 'intimidation'
+ 'fear' 'resentment' 'cara' 'fact' 'seek' 'help' 'multiple' 'time' 'seek'
+ 'help' 'clear' 'mentorship' 'armor' 'seek' 'caregive' 'help' 'fix' 'ship'
+ 'tattoine' 'tech' 'expert' 'fighter' 'mentor' 'fact' 'threaten' 'mandos'
+ 'masculinity' 'slight' 'fact' 'treat' 'obvious' 'seek' 'help' 'smart'
+ 'good' 'thing' 'mando' 'deferential' 'lead' 'great' 'business' 'teamwork'
+ 'lesson' 'haha' 'fantastic' 'portrayal' 'operate' 'world' 'powerful'
+ 'competent' 'actually' 'enrich' 'life' 'strength' 'kind' 'honor'
+ 'positive' 'masculinity' 'well' 'date' 'notion' 'chivalry' 'hero' 'story'
+ 'present' 'date' 'notion' 'chivalry' 'save' 'damsel' 'distress'
+ 'arrogant' 'violent' 'toxicity' 'chivalry' 'die' 'fire' 'mandalorian'
+ 'help' 'stoke' 'flame' 'mando' 'consistently' 'show' 'thing' 'associate'
+ 'knight' 'hero' 'strength' 'honor' 'eschew' 'negative' 'element'
+ 'strength' 'physical' 'strength' 'mando' 'strength' 'conviction'
+ 'stength' 'ability' 'bear' 'weight' 'emotional' 'scare' 'strength' 'mind'
+ 'solve' 'problem' 'strength' 'outcome' 'uncertain' 'positive'
+ 'masculinity' 'honor' 'big' 'stab' 'lie' 'cheat' 'hurt' 'innocent'
+ 'adhere' 'positive' 'value' 'system' 'mando' 'spade' 'fall' 'short'
+ 'story' 'show' 'learn' 'view' 'droid' 'empathy' 'emotion' 'wonderful'
+ 'strong' 'mando' 'growth' 'season' 'continue' 'grow' 'mandalorian'
+ 'stoic' 'bounty' 'hunters' 'unempathetic' 'mando' 'absolutely' 'hate'
+ 'droid' 'end' 'hear' 'mando' 'voice' 'break' 'express' 'concern'
+ 'companion' 'especially' 'baby' 'yoda' 'empathy' 'droid' 'reprogramme'
+ 'merciless' 'killer' 'caregiver' 'mando' 'strong' 'character' 'end'
+ 'season' 'beginning' 'display' 'growth' 'expertly' 'course' 'leave'
+ 'room' 'continue' 'grow' 'overall' 'happy' 'see' 'mandalorian' 'hope'
+ 'creative' 'folk' 'continue' 'tell' 'story' 'feature' 'masculinity'
+ 'inherently' 'toxic' 'fact' 'strong' 'honorable' 'deferential'
+ 'emotional' 'empathetic' 'total' 'badasse' 'thought']",871,1,"Masculinity, Feminism & Social Norms",0.9417070746421814,0.9997
+AskMen,What is a cologne you use that has gotten you a few compliments?,I was standing behind a well dressed guy in a line for a bar the other night and he smelt great. I didn't ask him what he was using but it made me think about looking for a nice scent.,strungoutfelon,18585,7246,2021-04-22 10:39:01,https://www.reddit.com/r/AskMen/comments/mw1xrj/what_is_a_cologne_you_use_that_has_gotten_you_a/,What is a cologne you use that has gotten you a few compliments? I was standing behind a well dressed guy in a line for a bar the other night and he smelt great. I didn't ask him what he was using but it made me think about looking for a nice scent.,male,"['cologne' 'use' 'compliment' 'stand' 'dress' 'line' 'bar' 'night' 'smell'
+ 'great' 'think' 'look' 'nice' 'scent']",53,0,Life Experiences & Emotional Reflections,0.9400818347930908,0.8248
+TwoXChromosomes,"YALL!!! PA is BLUE! Georgia is BLUE. What does that mean??? We are about to MAKE HISTORY! On Jan. 20, we are going to have our first female Vice President!!! Now just that! A female woman of color Vice President!","This has taken so long to accomplish, but there will finally be a WOMAN in the highest levels of the executive branch. 
+
+A WOMAN just a heartbeat away from the Presidency. 
+
+Women have been fighting for this for so long. 
+
+!!!!!
+
+**EDIT:** For those claiming it is too close to call, Biden is leading everywhere except North Carolina, and even Fox News called Arizona. The lead in PA keeps increasing. This is essentially over.",relevantlife,32166,1890,2020-11-06 14:23:04,https://www.reddit.com/r/TwoXChromosomes/comments/jp5xei/yall_pa_is_blue_georgia_is_blue_what_does_that/,"YALL!!! PA is BLUE! Georgia is BLUE. What does that mean??? We are about to MAKE HISTORY! On Jan. 20, we are going to have our first female Vice President!!! Now just that! A female woman of color Vice President! This has taken so long to accomplish, but there will finally be a WOMAN in the highest levels of the executive branch. 
+
+A WOMAN just a heartbeat away from the Presidency. 
+
+Women have been fighting for this for so long. 
+
+!!!!!
+
+**EDIT:** For those claiming it is too close to call, Biden is leading everywhere except North Carolina, and even Fox News called Arizona. The lead in PA keeps increasing. This is essentially over.",female,"['yall' 'pa' 'blue' 'georgia' 'blue' 'mean' 'history' 'go' 'female' 'vice'
+ 'president' 'female' 'color' 'vice' 'president' 'take' 'long'
+ 'accomplish' 'finally' 'high' 'level' 'executive' 'branch' 'heartbeat'
+ 'away' 'presidency' 'fight' 'long' 'claim' 'close' 'biden' 'lead' 'north'
+ 'carolina' 'fox' 'news' 'call' 'arizona' 'lead' 'pa' 'keep' 'increase'
+ 'essentially']",114,4,Sexual Violence & Abuse,0.9381988644599915,-0.6028
+TwoXChromosomes,I'm so proud of my fiancé and I want to share this little story with you,"Today we were babysitting two of our nieces( 4 and 6 years old). They start screaming in the room where they were playing while my fiancé and I cooked lunch. 
+
+We immediately ran into the room to see what happened and there was a small hairy scorpion that somehow got into the house. It's good they screamed because these things are nasty little demons. 
+
+So my fiancé runs and picks up the scorpion before it has a chance to scurry away.
+
+Now what makes this worth posting: as my fiancé was getting the scorpion, the oldest niece said that it was good that he was there because ""girls can't deal with that stuff.""
+
+So my fiancé  (hereafter referred to as Alex [I'm a liar. I'll never call him Alex again]), immediately asks her who told her that. She shrugged her shoulders and said that everyone knows girls can't deal with bugs and snakes (this is arizona, btw)
+
+So he calls her over and tells her that girls are just as good as boys and that she should never think she can't do something because she's a girl. 
+
+She said that she thought girls were ""supposed to be scared of bugs"". He told her, ""You never have to be afraid of something because youre a girl. You just have to be smart. Like when you saw this scorpion and you called me and your aunt in here. That was very smart of you and im proud of you for letting adults know about something that was a danger to you. You recognized there was something that could hurt you, and you got help. You are every bit as smart and strong and capable as any boy out there.""
+
+He held the scorpions tail  with his fingers and held it in the palm of his hand. She started to look more and more confident and brave as she stood there with him. 
+
+ He  explained to her that as she grows up people are always going to try to tell her what she can and cannot do, but that she can do anything if she puts her heart and mind into it. He told her there are women that work with bugs for their jobs and study them. She got so excited at the thought of a woman being able to do things a man can do. 
+
+At this point her little sister has worked her way over to look at it too. So he sits there and explains the different parts of it and what they're for. Completely captured their imaginations.
+
+The oldest girl asked if she could hold it. So he put it on her hands while he held the pinches and the tail and she held the scorpion in her hands. She was so proud of herself she talked about it until she went to sleep. 
+
+I'm pregnant so it just makes me proud that our daughter, if we have a girl, will grow up with a father that believes in her.
+
+
+Edit: I just looked at the up votes and it's over 9000!!!!!!! 
+
+**Edit2: I seriously never imagined this story would get so much attention. I'm glad it's had such a positive impact on so many people. Also spelling. Happy New Year!**",juicebox7777,21251,1155,2016-12-30 02:13:50,https://www.reddit.com/r/TwoXChromosomes/comments/5l0vhs/im_so_proud_of_my_fiancé_and_i_want_to_share_this/,"I'm so proud of my fiancé and I want to share this little story with you Today we were babysitting two of our nieces( 4 and 6 years old). They start screaming in the room where they were playing while my fiancé and I cooked lunch. 
+
+We immediately ran into the room to see what happened and there was a small hairy scorpion that somehow got into the house. It's good they screamed because these things are nasty little demons. 
+
+So my fiancé runs and picks up the scorpion before it has a chance to scurry away.
+
+Now what makes this worth posting: as my fiancé was getting the scorpion, the oldest niece said that it was good that he was there because ""girls can't deal with that stuff.""
+
+So my fiancé  (hereafter referred to as Alex [I'm a liar. I'll never call him Alex again]), immediately asks her who told her that. She shrugged her shoulders and said that everyone knows girls can't deal with bugs and snakes (this is arizona, btw)
+
+So he calls her over and tells her that girls are just as good as boys and that she should never think she can't do something because she's a girl. 
+
+She said that she thought girls were ""supposed to be scared of bugs"". He told her, ""You never have to be afraid of something because youre a girl. You just have to be smart. Like when you saw this scorpion and you called me and your aunt in here. That was very smart of you and im proud of you for letting adults know about something that was a danger to you. You recognized there was something that could hurt you, and you got help. You are every bit as smart and strong and capable as any boy out there.""
+
+He held the scorpions tail  with his fingers and held it in the palm of his hand. She started to look more and more confident and brave as she stood there with him. 
+
+ He  explained to her that as she grows up people are always going to try to tell her what she can and cannot do, but that she can do anything if she puts her heart and mind into it. He told her there are women that work with bugs for their jobs and study them. She got so excited at the thought of a woman being able to do things a man can do. 
+
+At this point her little sister has worked her way over to look at it too. So he sits there and explains the different parts of it and what they're for. Completely captured their imaginations.
+
+The oldest girl asked if she could hold it. So he put it on her hands while he held the pinches and the tail and she held the scorpion in her hands. She was so proud of herself she talked about it until she went to sleep. 
+
+I'm pregnant so it just makes me proud that our daughter, if we have a girl, will grow up with a father that believes in her.
+
+
+Edit: I just looked at the up votes and it's over 9000!!!!!!! 
+
+**Edit2: I seriously never imagined this story would get so much attention. I'm glad it's had such a positive impact on so many people. Also spelling. Happy New Year!**",female,"['proud' 'fiancé' 'share' 'little' 'story' 'today' 'babysitte' 'niece'
+ 'year' 'old' 'start' 'scream' 'room' 'play' 'fiancé' 'cook' 'lunch'
+ 'immediately' 'run' 'room' 'happen' 'small' 'hairy' 'scorpion' 'house'
+ 'good' 'scream' 'thing' 'nasty' 'little' 'demon' 'fiancé' 'run' 'pick'
+ 'scorpion' 'chance' 'scurry' 'away' 'worth' 'fiancé' 'scorpion' 'old'
+ 'niece' 'good' 'deal' 'fiancé' 'refer' 'alex' 'liar' 'alex' 'immediately'
+ 'tell' 'shrug' 'shoulder' 'deal' 'bug' 'snake' 'arizona' 'btw' 'call'
+ 'tell' 'good' 'boy' 'think' 'think' 'suppose' 'scared' 'bug' 'tell'
+ 'afraid' 'smart' 'see' 'scorpion' 'call' 'aunt' 'smart' 'proud' 'let'
+ 'adult' 'danger' 'recognize' 'hurt' 'help' 'bit' 'smart' 'strong'
+ 'capable' 'boy' 'hold' 'scorpion' 'tail' 'finger' 'hold' 'palm' 'hand'
+ 'start' 'look' 'confident' 'brave' 'stand' 'explain' 'grow' 'go' 'try'
+ 'tell' 'put' 'heart' 'mind' 'tell' 'work' 'bug' 'job' 'study' 'excited'
+ 'thought' 'able' 'thing' 'point' 'little' 'sister' 'work' 'look' 'sit'
+ 'explain' 'different' 'part' 'completely' 'capture' 'imagination' 'old'
+ 'hold' 'hand' 'hold' 'pinche' 'tail' 'hold' 'scorpion' 'hand' 'proud'
+ 'talk' 'go' 'sleep' 'pregnant' 'proud' 'daughter' 'grow' 'father'
+ 'believe' 'look' 'vote' 'seriously' 'imagine' 'story' 'attention' 'glad'
+ 'positive' 'impact' 'spell' 'happy' 'new' 'year']",559,0,Life Experiences & Emotional Reflections,0.9378408789634705,0.9925
+MensLib,I’m feeling good about the kids,"I’m a Big Buddy to a 10-yo boy with no living male relatives (raised by two mums and a grandmother, and he has a younger sister). We hang out about once a month. I can highly recommend it to any guy who has the bandwidth. Anyway, last weekend we went for a bike ride and he found a large tropical flower on the sidewalk. He picked it up and somehow attached to his bike’s handlebars. It was really nice to see him enjoy something ‘traditionally’ associated with femininity without any hesitation or self-consciousness, while also enjoying more ‘masculine’ activities like building model aircraft, whacking random stuff with sticks etc. 
+Well, that’s it. That’s the story. Have a great day ☺️",Roy4Pris,232,6,2025-04-29 00:51:57,https://www.reddit.com/r/MensLib/comments/1kabi56/im_feeling_good_about_the_kids/,"I’m feeling good about the kids I’m a Big Buddy to a 10-yo boy with no living male relatives (raised by two mums and a grandmother, and he has a younger sister). We hang out about once a month. I can highly recommend it to any guy who has the bandwidth. Anyway, last weekend we went for a bike ride and he found a large tropical flower on the sidewalk. He picked it up and somehow attached to his bike’s handlebars. It was really nice to see him enjoy something ‘traditionally’ associated with femininity without any hesitation or self-consciousness, while also enjoying more ‘masculine’ activities like building model aircraft, whacking random stuff with sticks etc. 
+Well, that’s it. That’s the story. Have a great day ☺️",male,"['feel' 'good' 'kid' 'big' 'buddy' 'yo' 'boy' 'living' 'male' 'relative'
+ 'raise' 'mum' 'grandmother' 'young' 'sister' 'hang' 'month' 'highly'
+ 'recommend' 'bandwidth' 'weekend' 'go' 'bike' 'ride' 'find' 'large'
+ 'tropical' 'flower' 'sidewalk' 'pick' 'attach' 'bike' 'handlebar' 'nice'
+ 'enjoy' 'traditionally' 'associate' 'femininity' 'hesitation' 'self'
+ 'consciousness' 'enjoy' 'masculine' 'activity' 'build' 'model' 'aircraft'
+ 'whack' 'random' 'stick' 'story' 'great']",126,2,Parenting & Family Life,0.9376471042633057,0.9734
