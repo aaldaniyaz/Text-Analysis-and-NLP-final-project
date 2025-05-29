@@ -1,7 +1,12 @@
-# **Gendered Language in Reddit Discussions:** ## **Topic Modeling and Sentiment Analysis**
+# **Gendered Language in Reddit Discussions:** 
+## **Topic Modeling and Sentiment Analysis**
 
 This study examines how self-identified men and women communicate on Reddit by analyzing content from six gender-associated subreddits. In this research natural language processing techniques: topic modeling and sentiment analysis, were used to uncover differences in discussion themes and emotional tone between male-oriented and female-oriented communities. Posts from three male-focused forums (r/AskMen, r/MensRights, r/MensLib) and three female-focused forums (r/TwoXChromosomes, r/Feminism, r/FemaleDatingStrategy) were collected, preprocessed (lemmatized, stopwords removed), and analyzed. Latent Dirichlet Allocation (LDA) identified six main topics across the entire dataset, ranging from personal life experiences to discussions of feminism, parenting, and mental health. Quantification of the prevalence of these topics in each subreddit was performed. It revealed that certain themes (e.g. discussions of social norms) are dominant in male-centric forums like r/MensRights, while others (e.g. sexual violence and abuse) appear more frequently in female-centric forums like r/TwoXChromosomes.
+
+
 To compare emotional expression, both a lexicon-based sentiment analyzer (VADER) and a transformer-based model (CardiffNLP’s RoBERTa Twitter sentiment classifier) were applied. Both methods indicate that overall sentiment tends to be slightly negative in tone for posts from both genders, though the transformer-based model detects a marginally more negative average sentiment for female-labeled posts than male-labeled posts. Sentiment within each topic category was also analyzed. A manual review of the most extremely positive or negative posts (as labeled by the RoBERTa model) found the model’s accuracy to be high (approximately 98% correct for these extremes), lending confidence to the sentiment findings.
+
+
 Overall, the study demonstrates measurable differences in the content and sentiment of discussions between the selected male-focused and female-focused Reddit communities. Men’s forums devote more attention to themes of gender norms and mental well-being of men, often with a critical or problem-focused tone, whereas women’s forums share more personal narratives of relationships and safety, including experiences of harassment, with correspondingly more negative emotional language. These insights contribute to understanding gendered communication patterns in online spaces and highlight how NLP techniques can illuminate the distinct concerns and emotional expressions of different user communities.
 
 
